@@ -1,0 +1,133 @@
+.top {
+    background: #E3E4E5;
+}
+.top_menu {
+    height: 30px;
+}
+.top_menu_left {
+    float: left;
+}
+.top_menu_left a {
+    color: #999999;
+}
+.top_menu_left li {
+    float: left ;
+    height: 30px;
+    line-height: 30px;
+}
+
+.icon_log {
+    color: red;
+    margin-right: 5px;
+}
+.top_menu_right {
+    float:right ;
+}
+.top_menu_right a {
+    color: #999999;
+}
+.top_menu_right li {
+    float: left ;
+    height: 30px;
+    line-height: 30px;
+}
+.top_menu_right .spacer {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin: 11px 5px 0px;
+}
+.nav {
+    height: 140px;
+    background: #FFFFFF;
+}
+.nav .nav_log {
+    float: left;
+    height: 140px;
+    width: 200px;
+    text-indent: -9999px;
+    background: url(../images/logo.png) no-repeat center;
+    background-size: contain;
+}
+.div_search {
+    float: left ;
+    width: 500px;
+    height: 30px;
+    border: 2px solid red;
+    margin-top: 24px;
+    margin-left: 70px;
+}
+.div_search .sta_search {
+    border: 0 none;
+    outline: none;
+    height: 30px;
+    width: 400px;
+    line-height: 30px;
+    padding-left: 20px;
+   
+}
+.div_search button {
+    background-color: red;
+    border: 0 none;
+    height: 29px;
+    width: 45px;
+    outline-style: none;
+    margin-left: 10px;
+}
+.icon_search {
+    color: #fff;
+}
+.cart {
+    float: left;
+    height: 30px;
+    width: 100px;
+    line-height: 30px;
+    border: 1px solid #ccc;
+    margin-left: 20px;
+    margin-top: 25px;
+    text-align: center;
+}
+.cart a {
+    color: red;
+}
+.nav_title {
+    float:left ;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.nav_title a {
+    color: #999999;
+}
+.nav_title li {
+    float: left;
+    margin-right: 20px;
+}
+.nav_items {
+    float: left;
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.nav_items a {
+    color: #000; 
+}
+
+.nav_p a {
+    color: red;
+}
+.nav_items a:hover {
+    color: red;
+    text-decoration: none;
+}
+.nav_items li {
+    float: left;
+    margin-right: 15px;
+}
+#childNav {
+    background: #E3E4E5;
+}
+#childNav ul li a {
+    color: #999999;
+}
